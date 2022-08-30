@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on almost anything, even if it includes mentoring me! I would love the experience.
 - 📫 How to reach me:
--     🐦(Twitter) - @operator900
+-     🐦(Twitter) - @operator_joses
 -     📷 (Insta) - @hozayalltheway
 -     Discord - Øperator#0906
 

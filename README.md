@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on almost anything, even if it includes mentoring me! I would love the experience.
 - 📫 How to reach me:
--     🐦(Twitter) - @operator_joses
+-     🐦(Twitter) - @operator_jose
 -     📷 (Insta) - @hozayalltheway
 -     Discord - Øperator#0906
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @operator900 aka Jose!
-- 👀 I’m interested in learning the C++ & Python language in full.
-- 🌱 I’m currently learning C++
+- 👀 So far, I understand C++, Python, and some React.
+- 🌱 Currently practicing creating websites with React.
 - 💞️ I’m looking to collaborate on almost anything, even if it includes mentoring me! I would love the experience.
 - 📫 How to reach me:
 -     🐦(Twitter) - @operator_jose
